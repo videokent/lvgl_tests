@@ -1,1 +1,3 @@
-preview-build
+!project.xml
+!globals.xml
+!screens/**/*.xml
